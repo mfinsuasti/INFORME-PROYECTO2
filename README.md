@@ -45,3 +45,5 @@ Crear un circuito con interruptores de 3 vias de corriente alterna e identificar
 ## BIBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
+
+Mora, J. (2012). Circuitos eléctricos (Novena edi). Madrid (Espana): Pearson Educación.
