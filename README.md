@@ -32,7 +32,7 @@ Crear un circuito con interruptores de 3 vias de corriente alterna e identificar
 
 ## VIDEO
 
-
+https://youtu.be/ZkS0R82dVL0
 
 ## CONCLUSIONES
 
